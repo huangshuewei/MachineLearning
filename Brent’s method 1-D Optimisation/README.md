@@ -16,9 +16,9 @@ Choice of x:
 - k approximate 0.38.
 
 Advantages of Brent’s method:
-• 1D optimisation method useful when derivatives not available
-• Uses a cunning combination of golden section search and parabolic interpolation
-• Fast and reliable
+- 1D optimisation method useful when derivatives not available
+- Uses a cunning combination of golden section search and parabolic interpolation
+- Fast and reliable
 
 -------------------------------------------------------------------------------------------------------------------------
 In my Jupyter Script,
