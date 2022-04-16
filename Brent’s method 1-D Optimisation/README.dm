@@ -13,14 +13,25 @@ if x>b, and if f(x)<f(b) then update the interval to [b,x,c] else [a,b,x]
 - New interval always smaller
 Repeat until interval sufficiently small
 
-
+Choice of x:
+- (1-k)^n * (c-a) = 0.62^n * (c-a)
+- k approximate 0.38.
 
 Advantages of Brent’s method:
 • 1D optimisation method useful when derivatives not available
 • Uses a cunning combination of golden section search and parabolic interpolation
 • Fast and reliable
 
-1st part:
+------------------------------------------------------------------------------------------------------------------------------
+In my Jupyter Script,
+
+1st Part:
 Import Brent's method offered by scipy library.
+
+2nd Part:
+Normal method with a fixed step only based on Python.
+
+3ed Part:
+Brent's method with step k=0.38 based on Python to find the minimal pont.
 
 
