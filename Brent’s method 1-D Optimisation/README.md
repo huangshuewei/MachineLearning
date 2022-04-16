@@ -8,8 +8,8 @@ have to find the decreasing direction and walk one step forward. The extend of t
 Golden section search:
 - Set an initial bracket [a,b,c]
 - Choose new point x in [a,c]
-if x<b, and if f(x)<f(b) then update the interval to [a,x,b] else [x,b,c]
-if x>b, and if f(x)<f(b) then update the interval to [b,x,c] else [a,b,x]
+--if x<b, and if f(x)<f(b) then update the interval to [a,x,b] else [x,b,c]
+--if x>b, and if f(x)<f(b) then update the interval to [b,x,c] else [a,b,x]
 - New interval always smaller
 Repeat until interval sufficiently small
 
