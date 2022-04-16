@@ -22,7 +22,7 @@ Advantages of Brent’s method:
 • Uses a cunning combination of golden section search and parabolic interpolation
 • Fast and reliable
 
-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 In my Jupyter Script,
 
 1st Part:
