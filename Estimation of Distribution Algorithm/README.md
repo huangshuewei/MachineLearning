@@ -18,9 +18,10 @@ As result, they are shown in graphs.
 ![image](https://user-images.githubusercontent.com/26786836/163695589-855a172f-f66b-4072-a429-bcbf378627aa.png)
 ![image](https://user-images.githubusercontent.com/26786836/163695590-0e81c0a0-cdb2-47b2-a195-2b3081155072.png)
 
-The best estimate of the minimum position is [ 0.500 , 0.500 ], The minima is  0.000
+### The best estimate of the minimum position is [ 0.500 , 0.500 ], The minima is  0.000
 
 2. Function B
+
 ![image](https://user-images.githubusercontent.com/26786836/163695600-1927c4db-4f5e-4f94-84a1-91466c56415c.png)
 ![image](https://user-images.githubusercontent.com/26786836/163695603-4cac5a08-10ef-4517-ac2d-c06d325f5df7.png)
 ![image](https://user-images.githubusercontent.com/26786836/163695605-d25a7dff-3612-41fc-a766-052f53228533.png)
@@ -35,6 +36,6 @@ The best estimate of the minimum position is [ 0.500 , 0.500 ], The minima is  0
 ![image](https://user-images.githubusercontent.com/26786836/163695627-d344530d-55d1-4db7-90db-b79a9c348b9e.png)
 ![image](https://user-images.githubusercontent.com/26786836/163695629-747b9f8d-44e0-4d9d-96dd-34b69f8452d3.png)
 
-The best estimate of the minimum position is [ -0.459 , -0.000 ], The minima is  0.000
+### The best estimate of the minimum position is [ -0.459 , -0.000 ], The minima is  0.000 in Function B
 
 
