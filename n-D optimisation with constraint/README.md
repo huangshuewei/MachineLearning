@@ -14,6 +14,7 @@ a*exp(a*x)*cos(exp(a*x))
 
 #### Differentiate function log(ax+by+c)
 df/dx= a/(a*x + b*y + c)
+
 df/dy= b/(a*x + b*y + c)
 
 
