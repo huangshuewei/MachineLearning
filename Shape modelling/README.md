@@ -3,7 +3,7 @@
 ## 1. Show points
 Import data from pelvis_shapes(2).txt, which has 12 points in each shape.
 
-Number of shapes 596; Number of points 12
+##### Number of shapes 596; Number of points 12
 
 Illustrates one shape and all shapes below.
 
