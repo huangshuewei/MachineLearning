@@ -44,11 +44,34 @@ The difference is that I show shape modelling with three largest eigenvalues.
 
 ![image](https://user-images.githubusercontent.com/26786836/163734159-d27a583f-aee1-42fb-9d62-11030007a422.png) ![image](https://user-images.githubusercontent.com/26786836/163734166-1303e10f-9b67-41e2-ba1e-fc3cb622626c.png) ![image](https://user-images.githubusercontent.com/26786836/163734177-706e3d9b-4e6c-4573-acd9-ae4e8a17c6c2.png)
 
+Then conducting dimensionality reduction from 12 to 3 shape parameters.
+Plot the Histograms in each domain.
 
+![image](https://user-images.githubusercontent.com/26786836/163734273-887afa1a-f593-48f1-b730-b4ce0233e237.png)
+![image](https://user-images.githubusercontent.com/26786836/163734275-9c5e1421-2ec6-41df-809d-911441bab380.png)
+![image](https://user-images.githubusercontent.com/26786836/163734277-c3f3e23d-344e-49b4-ae8a-a40d811f1828.png)
 
+### PCA Task
+A simple example of PCA used to reduce dimension of data.
+1. Load PCA_data1.txt
+2. Show first 2 data in figure.
 
+![image](https://user-images.githubusercontent.com/26786836/163734582-afa5bd5e-4a21-40b5-93f7-f0d0213d6a70.png)
 
+3. Calculate the eigenvectors and eigenvalues and Sort by the eigenvalues (largest first)
 
+![image](https://user-images.githubusercontent.com/26786836/163734622-a2d481c5-f45c-44f8-a7fe-f9819eaf61ce.png)
 
+4. Projection of the data onto the first two dimensions
+
+P_PCA has shape (10, 2)
+
+The estimation of the number of dimension is  2
+
+D_PCA_data has shape (200, 10)
+
+B_PCA has shape (2, 200)
+
+![image](https://user-images.githubusercontent.com/26786836/163734771-f04f1ef9-dce2-44d6-8e91-86ca9d07a12b.png)
 
 
