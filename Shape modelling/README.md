@@ -30,12 +30,23 @@ Show shapes with the first mode +/- SD.
 
 ![image](https://user-images.githubusercontent.com/26786836/163733623-ba5e0587-4674-4bef-9413-c401e74d670b.png)
 
-Extract parameters for all shapes.
+Extract parameters for all shapes. Show 2 parameters (Dimension) and 3 parameters (Dimension)
 
 ![image](https://user-images.githubusercontent.com/26786836/163733655-b01d3c98-c05b-4ae2-8d05-27cb2be1d85e.png)
 ![image](https://user-images.githubusercontent.com/26786836/163733659-933ae93c-506e-4af0-9988-bda6223abc1b.png)
 
-## 3. Shape modelling tasks
+## 3. Shape modelling task and PCA task
+### Shape Modelling Tasks
+This part is similar to the last one, Build shape mode.
+The difference is that I show shape modelling with three largest eigenvalues.
+
+![image](https://user-images.githubusercontent.com/26786836/163734073-5765b283-723d-46d8-8f89-aa1ca4a884f2.png)
+
+![image](https://user-images.githubusercontent.com/26786836/163734159-d27a583f-aee1-42fb-9d62-11030007a422.png) ![image](https://user-images.githubusercontent.com/26786836/163734166-1303e10f-9b67-41e2-ba1e-fc3cb622626c.png) ![image](https://user-images.githubusercontent.com/26786836/163734177-706e3d9b-4e6c-4573-acd9-ae4e8a17c6c2.png)
+
+
+
+
 
 
 
