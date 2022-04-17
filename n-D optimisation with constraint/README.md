@@ -10,7 +10,7 @@
 a*exp(a*x)*cos(exp(a*x))
 
 #### Differentiate function b*cos(exp(ax)+c)
--a*b*exp(a*x)*sin(c + exp(a*x))
+-a**b*exp(a*x)*sin(c + exp(a*x))
 
 #### Differentiate function log(ax+by+c)
 df/dx= a/(a*x + b*y + c)
