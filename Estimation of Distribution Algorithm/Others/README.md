@@ -45,7 +45,7 @@ Eigenvalues of covar:  [2.57908608 0.40482698]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-### 3 normal distribution of ellipse
+### 3.normal distribution of ellipse
 
 #### Estimate parameters of a normal distribution and draw ellipse
 Here, I increase the number of points picked from a fixed normal distribution and show these fit ellipse shapes in a figure.
