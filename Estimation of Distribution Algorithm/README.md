@@ -1,7 +1,8 @@
 # Estimation of Distribution Algorithm
 ## Global optimisation method
 
-### Estimation of Distribution Algorithm:
+### Estimation of Distribution Algorithm: 
+### --> Here I set a limitation of stopping update, when the sum of covariance < 0.0000001.
 
 ![image](https://user-images.githubusercontent.com/26786836/163695496-dcd607ec-be47-4bf0-b133-b056d4b7b689.png)
 
