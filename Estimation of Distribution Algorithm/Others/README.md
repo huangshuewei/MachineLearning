@@ -19,9 +19,13 @@ This example depicts the usage of estimating mean value and covariance matrix.
 #### 1st step: set a initial mean value and a covariance matrix to build a probability distribution.
 
 Mean:
+
  [1 2]
+ 
 Covariance:
+
  [[ 2.53204066 -0.3759543 ]
+ 
  [-0.3759543   0.48631186]]
  
  ![image](https://user-images.githubusercontent.com/26786836/163721103-ce1995f2-60d0-4c13-80ba-af0248818d52.png)
@@ -30,9 +34,13 @@ Covariance:
 #### 2nd step: extract 1000 points in this distribution and estimate the mean value and covariance.
 
 Estimate of mean:  [1.04101961 1.97491363]
+
 Estimate of cov:
+
  [[ 2.50616793 -0.39144079]
+ 
  [-0.39144079  0.47774513]]
+ 
 Eigenvalues of covar:  [2.57908608 0.40482698]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
