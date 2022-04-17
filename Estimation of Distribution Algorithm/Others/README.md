@@ -45,6 +45,33 @@ Eigenvalues of covar:  [2.57908608 0.40482698]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
+### 3 normal distribution of ellipse
+
+#### Estimate parameters of a normal distribution and draw ellipse
+Here, I increase the number of points picked from a fixed normal distribution and show these fit ellipse shapes in a figure.
+
+#### 1st step: set initial parameters, mean values and covariance matrix, and build a distribution model.
+Mean:  [1 2]
+
+Covariance:  [[0.63995163 0.02423256]
+
+ [0.02423256 0.02959589]]
+ 
+Estimate of mean:  [1.00076243 1.98779684]
+
+Estimate of cov:
+
+ [[0.69105309 0.04909556]
+ 
+ [0.04909556 0.03007446]]
+
+![image](https://user-images.githubusercontent.com/26786836/163721971-5c8c3119-cd7b-4e66-941c-5cd0b0884cab.png)
+
+#### 2nd step: extract 100, 200, 300, ..., 1000 points from this distribution model and draw these estimated ellipses.
+
+![image](https://user-images.githubusercontent.com/26786836/163722056-1df25132-f744-48bc-b2f5-5b8e62d17749.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
