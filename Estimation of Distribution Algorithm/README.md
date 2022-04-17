@@ -1,13 +1,13 @@
 # Estimation of Distribution Algorithm
 ## Global optimisation method
 
-Estimation of Distribution Algorithm:
+### Estimation of Distribution Algorithm:
 
 ![image](https://user-images.githubusercontent.com/26786836/163695496-dcd607ec-be47-4bf0-b133-b056d4b7b689.png)
 
 As result, they are shown in graphs.
 
-1. Function A
+### 1. Function A
 
 ![image](https://user-images.githubusercontent.com/26786836/163695574-c96d4f70-c264-40f9-adfa-5af610a883ec.png)
 ![image](https://user-images.githubusercontent.com/26786836/163695576-4f893438-82f9-4a87-b598-410f76f764b0.png)
@@ -18,9 +18,9 @@ As result, they are shown in graphs.
 ![image](https://user-images.githubusercontent.com/26786836/163695589-855a172f-f66b-4072-a429-bcbf378627aa.png)
 ![image](https://user-images.githubusercontent.com/26786836/163695590-0e81c0a0-cdb2-47b2-a195-2b3081155072.png)
 
-### The best estimate of the minimum position is [ 0.500 , 0.500 ], The minima is  0.000
+### The best estimate of the minimum position is [ 0.500 , 0.500 ], The minima is  0.000 in Function A
 
-2. Function B
+### 2. Function B
 
 ![image](https://user-images.githubusercontent.com/26786836/163695600-1927c4db-4f5e-4f94-84a1-91466c56415c.png)
 ![image](https://user-images.githubusercontent.com/26786836/163695603-4cac5a08-10ef-4517-ac2d-c06d325f5df7.png)
