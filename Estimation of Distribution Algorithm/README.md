@@ -1,5 +1,5 @@
 # Estimation of Distribution Algorithm
-## Global optimisation method
+## A type of Global optimisation method
 
 ### Estimation of Distribution Algorithm: 
 ### --> Here I set a limitation of stopping update, when the sum of covariance < 0.0000001.
