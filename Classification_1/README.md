@@ -66,7 +66,16 @@ Number of false negatives 133
 
 ----------------------------------------------------------------------------------------------------------------------
 
+## 3. random forest method
+This function is adopted from sklearn.ensemble (RandomForestClassifier).
 
+![image](https://user-images.githubusercontent.com/26786836/163825479-416a7f27-53c8-4ed5-b799-ea1e8d0f652b.png)
+
+![image](https://user-images.githubusercontent.com/26786836/163825533-21e679f1-ed5c-4e27-936a-9817188255d1.png)
+
+![image](https://user-images.githubusercontent.com/26786836/163825598-b0e7b72e-436c-4d18-b10a-307314b62e54.png)
+
+![image](https://user-images.githubusercontent.com/26786836/163825680-9ff397c1-5809-4251-bd3a-0d875dcb260f.png)
 
 
 
