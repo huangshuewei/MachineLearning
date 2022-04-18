@@ -24,8 +24,11 @@ It is used to filter a Mr. Bean and a shapes image.
 
 Use correlation method to locate objects.
 
+
+
 ![image](https://user-images.githubusercontent.com/26786836/163737035-5afac212-48e6-4997-83e7-be10ea982da6.png)
 
-![image](https://user-images.githubusercontent.com/26786836/163737042-6588027c-0b43-41da-a774-9f39caeca9f4.png)
+![image](https://user-images.githubusercontent.com/26786836/163737046-6bd62ddb-1105-4d45-a0e4-07a66fe265e4.png)
+
 
 
