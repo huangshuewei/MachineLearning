@@ -24,11 +24,20 @@ It is used to filter a Mr. Bean and a shapes image.
 
 Use correlation method to locate objects.
 
+1. Load two images of the face and extract three patched, a eye, a mouth, and a nose.
 
+##### Original images 1 and 2.
 
-![image](https://user-images.githubusercontent.com/26786836/163737035-5afac212-48e6-4997-83e7-be10ea982da6.png)
+![image](https://user-images.githubusercontent.com/26786836/163737035-5afac212-48e6-4997-83e7-be10ea982da6.png) ![image](https://user-images.githubusercontent.com/26786836/163737046-6bd62ddb-1105-4d45-a0e4-07a66fe265e4.png)
 
-![image](https://user-images.githubusercontent.com/26786836/163737046-6bd62ddb-1105-4d45-a0e4-07a66fe265e4.png)
+##### Patches
 
+![image](https://user-images.githubusercontent.com/26786836/163737149-d09e2331-1456-48f6-8a81-adbe807888cb.png)
 
+2. Utilise these patches to correlate ace image 2, and locate these objects in face image 2.
 
+Also show the response images of each patch.
+
+![image](https://user-images.githubusercontent.com/26786836/163737213-7cfcd80c-5ac3-4438-aea4-5948ba91d353.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
