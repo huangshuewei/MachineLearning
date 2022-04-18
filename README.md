@@ -3,16 +3,16 @@
 In this branch, you can find some methods of math computing.
 
 ## 1. Classification 1
-- 1-1. Generate blob data
-- 1-2. Example of Linear Discriminant Analysis and Quadratic Discriminant Analysis
-- 1-3. Example of random forest
-- 1-4. ROC analysis of Quadratic classifier
+- Generate blob data
+- Example of Linear Discriminant Analysis and Quadratic Discriminant Analysis
+- Example of random forest
+- ROC analysis of Quadratic classifier
 
 ## 2. Classification 2
-- 2-1. Linear Support Vector machine (SVM)
-- 2-2. Nonlinear Support Vector machine (SVM)
-- 2-3. Example of simple perceptron built by Pytorch
-- 2-4. Model fitting
+- Linear Support Vector machine (SVM)
+- Nonlinear Support Vector machine (SVM)
+- Example of simple perceptron built by Pytorch
+- Model fitting
 
 ## 3. Brent’s method 1-D Optimisation
 - 1-D Optimisation
