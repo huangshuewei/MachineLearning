@@ -22,6 +22,55 @@ It also can generate high-dimension data including 3 or 4 dimension (n_features)
 
 ----------------------------------------------------------------------------------------------------------------------
 
+## 2. example of LDA & QDA
+Example of using linear discriminant analysis and quadratic discriminant analysis for classification.
+Apply LDA and QDA functions from sklearn.discriminant_analysis library.
+
+![image](https://user-images.githubusercontent.com/26786836/163823027-fb01b0f0-a3d4-4e37-9d5f-c9f77e582736.png)
+
+(1) 500 samples with centre at (1, 1) and (2, 3) which are classified by LDA method. 
+
+![image](https://user-images.githubusercontent.com/26786836/163823234-2fadff32-66cc-4f43-b3a8-b65995ed75dd.png)
+![image](https://user-images.githubusercontent.com/26786836/163823257-ef8b8264-7e52-4026-9b2a-547aa8ac95a4.png)
+![image](https://user-images.githubusercontent.com/26786836/163823268-73fc9672-2fdf-43bc-a1a2-b05b0bddc515.png)
+
+Number of positives in training set 250  of  500
+
+Number of true positives 216
+
+Number of false negatives 34
+
+(2) 1000 samples with centre at (4, 3.5) and (4, 4.5) which are classified by LDA method. 
+
+![image](https://user-images.githubusercontent.com/26786836/163823423-a33285bd-6451-472d-9faf-f47ee90ac2b7.png)
+![image](https://user-images.githubusercontent.com/26786836/163823433-68deba0a-a7fb-483c-ad32-d2c9bb371725.png)
+![image](https://user-images.githubusercontent.com/26786836/163823443-337006a8-08a7-4d18-aae5-376ba5279d1f.png)
+
+Number of positives in training set 500  of  1000
+
+Number of true positives 361
+
+Number of false negatives 139
+
+(3) 1000 samples with centre at (4, 3.5) and (4, 4.5) which are classified by QDA method. 
+
+![image](https://user-images.githubusercontent.com/26786836/163823561-e824a3c4-d891-4989-b4c8-a4c148ac1587.png)
+![image](https://user-images.githubusercontent.com/26786836/163823587-74c2eb15-4ed7-4be6-a498-517d79d56eed.png)
+![image](https://user-images.githubusercontent.com/26786836/163823601-c59e89b5-c9f1-4f9f-aab0-92eeb852bcfe.png)
+
+Number of positives in training set 500  of  1000
+
+Number of true positives 367
+
+Number of false negatives 133
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 
 
 
