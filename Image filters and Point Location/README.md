@@ -41,3 +41,15 @@ Also show the response images of each patch.
 ![image](https://user-images.githubusercontent.com/26786836/163737213-7cfcd80c-5ac3-4438-aea4-5948ba91d353.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
+# Example of Normalised Cross Correlation
+
+![image](https://user-images.githubusercontent.com/26786836/163737740-6324e161-c758-4cc7-9674-1e648035ceed.png)
+![image](https://user-images.githubusercontent.com/26786836/163737754-e66a26db-fa6f-4620-9a0f-5f536caec9dd.png)
+
+This method is beneficial to compare images based on Normalised images.
+
+![image](https://user-images.githubusercontent.com/26786836/163737804-d2665622-dfa5-4ac4-adad-4d41bd612c09.png)
+![image](https://user-images.githubusercontent.com/26786836/163737808-f791d573-3f66-49d8-965a-e11e1234bdf1.png)
+
+![image](https://user-images.githubusercontent.com/26786836/163737821-56712551-df8b-4dec-b728-c5650fe22ad5.png)
+
