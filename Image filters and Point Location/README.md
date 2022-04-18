@@ -1,4 +1,4 @@
-# Image filters and Point Location
+# Image filters
 
 In this practice, I apply several spatial filters to enhance the edage of objects.
 
@@ -19,5 +19,13 @@ It is used to filter a Mr. Bean and a shapes image.
 ![image](https://user-images.githubusercontent.com/26786836/163736717-b5c5b304-979a-48cf-b0a3-6fb6fce2c5c2.png)
 
 ![image](https://user-images.githubusercontent.com/26786836/163736726-b1a93645-ea75-4b0d-9fdb-fabf791682e5.png)
+
+# Point Location
+
+Use correlation method to locate objects.
+
+![image](https://user-images.githubusercontent.com/26786836/163737035-5afac212-48e6-4997-83e7-be10ea982da6.png)
+
+![image](https://user-images.githubusercontent.com/26786836/163737042-6588027c-0b43-41da-a774-9f39caeca9f4.png)
 
 
