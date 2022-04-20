@@ -20,10 +20,10 @@ In this branch, you can find some methods of math computing.
 ## 4. Estimation of Distribution Algorithm
 - Global optimisation method
 - Others
--- Flat distribution
--- Estimate parameters of distribution (fit_normal_distribution)
--- Normal distribution of ellipse
--- Example of sorting
+- + Flat distribution
+- + Estimate parameters of distribution (fit_normal_distribution)
+- + Normal distribution of ellipse
+- + Example of sorting
 
 ## 5. Image filters and Point Location
 - Foundation --> (1) ImageDisplay (2) ImageLoading
