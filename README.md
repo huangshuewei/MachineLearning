@@ -45,8 +45,8 @@ In this branch, you can find some methods of math computing.
 - Build shape mode
 - Shape modelling tasks with Principal component analysis (PCA)
 
-
-
+## 9. Dimensionality Reduction
+- Circle classifier
 
 
 
