@@ -47,7 +47,7 @@ In this branch, you can find some methods of math computing.
 
 ## 9. Dimensionality Reduction
 - Circle classifier
-
+- Principal Component Analysis, Multi-dimensional Scaling, Locally Linear Embedding and t-SNE
 
 
 
