@@ -46,10 +46,12 @@ In this branch, you can find some methods of math computing.
 - Shape modelling tasks with Principal component analysis (PCA)
 
 ## 9. Dimensionality Reduction
-- Circle classifier
+- Circle classifier (Sigmoid function)
 - Principal Component Analysis, Multi-dimensional Scaling, Locally Linear Embedding and t-SNE
 
-
+## 10. Artificial neural network
+- Examples of perceptron, multi-layer perceptron, multi-layer perceptron with optimiser and batches
+- Examples of AutoEncoder
 
 
 
