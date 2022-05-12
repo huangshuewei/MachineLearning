@@ -53,7 +53,9 @@ In this branch, you can find some methods of math computing.
 - Examples of perceptron, multi-layer perceptron, multi-layer perceptron with optimiser and batches
 - Examples of AutoEncoder
 
-
+## 11. ANN, CNN and image Auto-encoder using PyTorch
+- Examples of multi-layer perceptron (ANN) and CNN with CIFAR-10 and MNIST data 
+- Examples of Image-AutoEncoder
 
 
 
